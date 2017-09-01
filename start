@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-python src/os_scripts/setup.py
-=======
 python src/os_scripts/start.py
->>>>>>> 1d6e199dc5cca7974cbf9a518123bb510ea565a7
