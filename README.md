@@ -19,7 +19,7 @@ sh setup
 
 The following is a rough guideline for desired deliverables.
 
-1. August 2017 - Basic Operating System Infrastructure
+1. September 2017 - Basic Operating System Infrastructure
 2. 
 
 ## Technology Stack
